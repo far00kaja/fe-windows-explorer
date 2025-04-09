@@ -15,7 +15,7 @@ VITE_ENDPOINT_URL=http://localhost:3000
 Untuk memulai aplikasi ini silahkan lakukan prompt berikut
 
 ```bash
-bun run install
+bun install
 ```
 
 ## Development
